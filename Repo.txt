@@ -4,3 +4,4 @@ sudo yum localinstall --nogpgcheck
 https://download1.rpmfusion.org/nonfree/el/rpmfusion-nonfree-release7.noarch.rpm
 edicao 1
 edicao 2
+branch atividade
